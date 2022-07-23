@@ -68,6 +68,9 @@ header {
 	display: flex;
 	font-weight: 700;
 }
+.nav span {
+	color: #000;
+}
 .nav__item {
 	/* border: solid 1px lightgreen; */
 	white-space: nowrap;
